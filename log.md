@@ -19,7 +19,7 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 1: June 27, 2020
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -29,3 +29,14 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 -->
+
+### Day 1: August 17, 2020
+
+**Today's Progress**: 
+
+- Test a few request to GitHub API to get info about repo, directory and file 
+- Authenticate request with personal access token act like OAuth token to get more rate limit request
+
+**Thoughts:** It's a bit frustrating when the first time read the documentation cause the API was so big, but after read slowly and search what I need, It becomes easier to understand the documentation.
+
+**Link to work:** [Repository's Commit](https://github.com/budimanfajarf/project-ideas/commit/704b6a25a23db599ef41d825da9ed516d86d276e)

@@ -48,6 +48,6 @@
 
 Continue to test GitHub API, call a few request using looping, Try to get a few data from markdown file (.md) in a repository
 
-**Thoughts:** Don't know the best approach to store markdown text to database or save markdown file to local storage :|
+**Thoughts:** Don't know the best approach to store markdown text to database or store markdown file to local storage :|
 
 **Link to work:** [Repository's Commit](https://github.com/budimanfajarf/project-ideas/commit/b788a9904a2727e44edea6214a452c4fbeb3ecc4)

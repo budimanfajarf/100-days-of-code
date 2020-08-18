@@ -40,3 +40,14 @@
 **Thoughts:** It's a bit frustrating when the first time read the documentation cause the API was so big, but after read slowly and search what I need, It becomes easier to understand the documentation.
 
 **Link to work:** [Repository's Commit](https://github.com/budimanfajarf/project-ideas/commit/704b6a25a23db599ef41d825da9ed516d86d276e)
+
+
+### Day 2: August 18, 2020
+
+**Today's Progress**: 
+
+Continue to test GitHub API, call a few request using looping, Try to get a few data from markdown file (.md) in a repository
+
+**Thoughts:** Don't know the best approach to store markdown text to database or save markdown file to local storage :|
+
+**Link to work:** [Repository's Commit](https://github.com/budimanfajarf/project-ideas/commit/b788a9904a2727e44edea6214a452c4fbeb3ecc4)

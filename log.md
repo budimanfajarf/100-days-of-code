@@ -49,3 +49,9 @@
 **Thoughts:** Don't know the best approach to store markdown text to database or store markdown file to local storage :|
 
 **Link to work:** [Repository's Commit](https://github.com/budimanfajarf/project-ideas/commit/b788a9904a2727e44edea6214a452c4fbeb3ecc4)
+
+### Day 3: August 19, 2020
+
+**Today's Progress**: Continue to try to consume GitHub API, get url raw markdown from API. Use laravel helpers string to extract data like title, description, tags, etc by reading raw markdown.
+
+**Link to work:** [Repository's Commit](https://github.com/budimanfajarf/project-ideas/commit/b8895c572a92b5d414f326e4cc72770ec1a7bc48)

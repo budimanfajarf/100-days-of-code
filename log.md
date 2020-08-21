@@ -74,3 +74,9 @@ Relationship implemeted:
 | Idea | Source | One to One |
 
 **Link to work:** [Repository's Commit](https://github.com/budimanfajarf/project-ideas/commit/be3f2bcaae9042bcbcb274e7f3adaf3f2fc7d3e1)
+
+### Day 5: August 21, 2020 
+
+**Today's Progress:** Update my personal web, especially in the page of my dev/projects Personal computer 
+
+**Link to work:** [budidev.com/dev/](https://budidev.com/dev/ "Development/Project by Budiman Fajar Firdaus")

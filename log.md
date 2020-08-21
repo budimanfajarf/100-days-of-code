@@ -44,7 +44,7 @@
 
 ### Day 2: August 18, 2020
 
-**Today's Progress:** Continue to test GitHub API, call a few request using looping, Try to get a few data from markdown file (.md) in a repository
+**Today's Progress:** Continue to test GitHub API, call a few request using looping, Try to get a few data from markdown file (.md) in a repository.
 
 **Thoughts:** Don't know the best approach to store markdown text to database or store markdown file to local storage :|
 
@@ -77,6 +77,6 @@ Relationship implemeted:
 
 ### Day 5: August 21, 2020 
 
-**Today's Progress:** Update my personal web, especially in the page of my dev/projects Personal computer 
+**Today's Progress:** Update my personal web, especially in the page of my dev/projects 💻
 
 **Link to work:** [budidev.com/dev/](https://budidev.com/dev/ "Development/Project by Budiman Fajar Firdaus")

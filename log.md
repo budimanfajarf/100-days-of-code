@@ -85,6 +85,6 @@ Relationship implemeted:
 
 **Today's Progress:** 
 
-Change relationship of User, Github, Idea and Tag, so I have to update the migrations and the seeder too
+Change relationship models of Idea to Tag and Idea to User or Github, so I have to update the migrations and the seeder too
 
 **Link to work:** [Repo](https://github.com/budimanfajarf/project-ideas)

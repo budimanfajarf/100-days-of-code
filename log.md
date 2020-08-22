@@ -39,7 +39,7 @@
 
 **Thoughts:** It's a bit frustrating when the first time read the documentation cause the API was so big, but after read slowly and search what I need, It becomes easier to understand the documentation.
 
-**Link to work:** [Repository's Commit](https://github.com/budimanfajarf/project-ideas/commit/704b6a25a23db599ef41d825da9ed516d86d276e)
+**Link to work:** [Repo's Commit](https://github.com/budimanfajarf/project-ideas/commit/704b6a25a23db599ef41d825da9ed516d86d276e)
 
 
 ### Day 2: August 18, 2020
@@ -48,13 +48,13 @@
 
 **Thoughts:** Don't know the best approach to store markdown text to database or store markdown file to local storage :|
 
-**Link to work:** [Repository's Commit](https://github.com/budimanfajarf/project-ideas/commit/b788a9904a2727e44edea6214a452c4fbeb3ecc4)
+**Link to work:** [Repo's Commit](https://github.com/budimanfajarf/project-ideas/commit/b788a9904a2727e44edea6214a452c4fbeb3ecc4)
 
 ### Day 3: August 19, 2020
 
 **Today's Progress:** Continue to try to consume GitHub API, get url raw markdown from API. Use laravel helpers string to extract data like title, description, tags, etc by reading raw markdown.
 
-**Link to work:** [Repository's Commit](https://github.com/budimanfajarf/project-ideas/commit/b8895c572a92b5d414f326e4cc72770ec1a7bc48)
+**Link to work:** [Repo's Commit](https://github.com/budimanfajarf/project-ideas/commit/b8895c572a92b5d414f326e4cc72770ec1a7bc48)
 
 
 ### Day 4: August 20, 2020 
@@ -73,10 +73,18 @@ Relationship implemeted:
 | Idea | Tag | Many to Many |
 | Idea | Source | One to One |
 
-**Link to work:** [Repository's Commit](https://github.com/budimanfajarf/project-ideas/commit/be3f2bcaae9042bcbcb274e7f3adaf3f2fc7d3e1)
+**Link to work:** [Repo's Commit](https://github.com/budimanfajarf/project-ideas/commit/be3f2bcaae9042bcbcb274e7f3adaf3f2fc7d3e1)
 
 ### Day 5: August 21, 2020 
 
 **Today's Progress:** Update my personal web, especially in the page of my dev/projects 💻
 
 **Link to work:** [budidev.com/dev/](https://budidev.com/dev/ "Development/Project by Budiman Fajar Firdaus")
+
+### Day 6: August 22, 2020 
+
+**Today's Progress:** 
+
+Change relationship of User, Github, Idea and Tag, so I have to update the migrations and the seeder too
+
+**Link to work:** [Repo](https://github.com/budimanfajarf/project-ideas)

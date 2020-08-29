@@ -88,3 +88,12 @@ Relationship implemeted:
 Change relationship models of Idea to Tag and Idea to User or Github, so I have to update the migrations and the seeder too
 
 **Link to work:** [Repo](https://github.com/budimanfajarf/project-ideas)
+
+### Day 7 of #100DaysOfCode 
+
+First time "php artisan:make command". I create a command to clear log files.
+Read the documentation and a few articles about:
+- Task Scheduling
+- How to Use Dependencies Injection
+
+**Link to work:** [Repo](https://github.com/budimanfajarf/project-ideas)
